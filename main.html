@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>El viejo</title>
+    <!-- CSS FILE-->
+    <link rel="stylesheet" type="text/css" href="tic.css">
+    <script src="../arco de javascript/titi.js"></script>
+</head>
+
+<body>
+
+    <div id="main">
+        <!-- Game title -->
+        <h1>El viejo create by: @Delt322</h1>
+
+        <!-- Game instructions -->
+        <p id="ins">es la vieja en masculino no seas tarado y ponte a jugar!!!<br><br>jugador1: <b>X</b><br>jugador2:<b>O</b></p>
+
+        <br>
+        <br>
+
+        <!-- 3x3 grid of boxes -->
+        <input type="text" id="b1" onclick="JH(); fun1();" readonly>
+        <input type="text" id="b2" onclick="JH(); fun2();" readonly>
+        <input type="text" id="b3" onclick="JH(); fun3();" readonly>
+        <br>
+        <br>
+        <input type="text" id="b4" onclick="JH(); fun4();" readonly>
+        <input type="text" id="b5" onclick="JH(); fun5();" readonly>
+        <input type="text" id="b6" onclick="JH(); fun6();" readonly>
+        <br>
+        <br>
+        <input type="text" id="b7" onclick="JH(); fun7();" readonly>
+        <input type="text" id="b8" onclick="JH(); fun8();" readonly>
+        <input type="text" id="b9" onclick="JH(); fun9();" readonly>
+        <!-- Grid end here -->
+        <br>
+        <br>
+        <br>
+        <!-- Button to reset game -->
+        <button id="but" onclick="reset()">RESET</button>
+        <br>
+        <br>
+        <!-- Space to show player turn -->
+        <p id="print"></p>
+
+
+
+    </div>
+
+
+</body>
+
+</html>
