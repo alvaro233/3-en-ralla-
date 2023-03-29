@@ -8,10 +8,10 @@ El juego está diseñado para dos jugadores (Player X y Player O) que alternativ
 
 A continuación se muestran imágenes del juego construido.
 
-<image src="2022-12-25 (1).png" alt="TIc">
+<image src="el viejo\captura.jpg" alt="TIc">
 
-<image src="2022-12-25.png" alt="TAc">
+<image src="el viejo\dee.png" alt="TAc">
 
-<image src="2022-12-27.png" alt="TOe">
+<image src="el viejo\Sin título.png" alt="TOe">
 
-<image src="2023-01-02.png" alt=":)">
+<image src="el viejo\gg.png" alt=":)">
